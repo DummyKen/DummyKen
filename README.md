@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DummyKen)
 
 - 👋 Hi, I’m @Ken
-- 👀 I’m interested in *Full-stack web development*
+- 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
 - 🌱 I’m currently learning __Javascript__ | __Python__ | __Italian__
 - 👾 Programming Languages I know: C | Python | Javascript
 - 🤖 Web Languages I'm good at: HTML | CSS | Javascript | 
