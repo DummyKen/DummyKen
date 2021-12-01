@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=DummyKen)
 
-- 👋 Hi, I’m @DummyKen
+- 👋 Hi, I’m @Ken
 - 👀 I’m interested in *Full-stack web development*
 - 🌱 I’m currently learning __Javascript__ | __Python__ | __Italian__
 - 👾 Programming Languages I know: C | Python | Javascript
