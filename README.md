@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DummyKen)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
 
 - 👋 Hi, I’m @Ken
 - 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
@@ -29,4 +32,11 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dummyken&show_icons=true&locale=en" alt="dummyken" /></p>
  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dummyken&" alt="dummyken" /></p>
+
+![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DummyKen&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyKen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+
 
