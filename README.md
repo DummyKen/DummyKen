@@ -37,6 +37,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyKen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github.com/DummyKen/stats/blob/master/generated/overview.svg)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 
