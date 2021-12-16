@@ -27,7 +27,7 @@
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dummyken&show_icons=true&locale=en" alt="dummyken" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dummyken&" alt="dummyken" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dummyken&" alt="dummyken" /></p> -->
 
 ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DummyKen&show_icons=true&theme=vue)
 
