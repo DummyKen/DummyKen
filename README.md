@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken
 - 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
-- 🌱 I’m currently learning __Javascript__ | __Python__ | __Italian__
+- 🌱 I’m currently learning __Javascript__ | __Python__ | __Japanese__
 - 👾 Programming Languages I know: C | Python | Javascript
 - 🤖 Web Languages I'm good at: HTML | CSS | Javascript | 
 - 👨‍💻 Tools I can use properly: Git | Github | Excel | Markdown | VScode | Figma | Unix | WSL | Photoshop | 
