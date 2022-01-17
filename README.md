@@ -42,9 +42,9 @@
  -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dummyken&" alt="dummyken" /></p> -->
 
-![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DummyKen&show_icons=true&theme=vue)
+<!-- ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DummyKen&show_icons=true&theme=vue) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyKen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyKen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github.com/DummyKen/stats/blob/master/generated/overview.svg)
  -->
 ### I got jokes ⬇️ 
