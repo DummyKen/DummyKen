@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ken
+- 👋 Hi, Ken here.
 - 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
 - 🌱 I’m currently learning __Javascript__ | __Python__ | __Japanese__ | __Flask__
 - 👾 Programming Languages I know: C | Python | Javascript
