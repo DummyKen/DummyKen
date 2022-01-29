@@ -4,7 +4,7 @@
 - 👾 Programming Languages I know: C | Python | Javascript
 - 🤖 Web Languages I'm good at: HTML | CSS | Javascript | 
 - 👨‍💻 Tools I can use properly: Git | Github | Excel | Markdown | VScode | Figma | Unix | WSL |  
-<!-- 👯 I’m looking to collaborate on ... Django, React Native, React, Next, Redux, Node, Express, Firebase -->
+<!-- 👯 I’m looking to collaborate on Django, React Native, React, Next, Redux, Node, Express, Firebase -->
 - 📫 You can reach me by:
 [My Email](banyarnaingcodes@gmail.com) or [My Linkedin](https://www.linkedin.com/in/banyar-naing-429bb2215/)
 
