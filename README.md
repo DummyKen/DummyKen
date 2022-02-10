@@ -1,7 +1,7 @@
 - 👋 Hi, Ken here.
 - 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
 - 🌱 I’m currently learning __Javascript__ | __Japanese__ | __Sass__ | __Flask__ |
-<!-- - 👾 Programming Languages I know: C | Python | Javascript -->
+- 👾 Programming Languages I know: C | Python | Javascript
 - 🤖 Web Languages I'm good at: HTML | CSS | Javascript | 
 - 👨‍💻 Tools I can use properly: Git | Github | Excel | Markdown | VScode | Figma | Unix | WSL |  
 <!-- 👯 I’m looking to collaborate on Django, React Native, React, Next, Redux, Node, Express, Firebase -->
