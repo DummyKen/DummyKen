@@ -9,6 +9,8 @@
 [My Email](banyarnaingcodes@gmail.com) or [My Linkedin](https://www.linkedin.com/in/banyar-naing-429bb2215/)
 
 
+I dig solving algorithmic problems.
+
 <img src="https://www.codewars.com/users/Ken_codes/badges/large">
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
