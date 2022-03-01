@@ -1,5 +1,5 @@
 - 👋 Hi, Ken here.
-<!-- - 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing* -->
+- 👀 I’m interested in *Full-stack web development*, *AI*, *Machine Learning* and *Content Writing*
 - 🌱 I’m currently learning __Javascript__ | __Django__ | __Sass__ | __Bootstrap__ | __WebScraping__
 - 👾 Programming Languages I know: C | Python | Javascript
 - 🤖 Web Languages I'm good at: HTML | CSS | Javascript | 
